@@ -3,6 +3,6 @@ Remove Tab From Any File
 
 git clone https://github.com/BlackB07/BTab
 
-cd Btab
+cd BTab
 
 dpkg -i b*
